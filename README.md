@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -31,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
