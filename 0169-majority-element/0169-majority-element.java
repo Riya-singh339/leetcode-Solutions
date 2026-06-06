@@ -4,11 +4,10 @@ class Solution {
         for(int num : nums){
             if(c==0){
                 m=num;
-            }
-            if(num==m){
+                c=1;
+            }else if(num==m){
                 c++;
-            }
-            else{
+            }else{
                 c--;
             }
         }
