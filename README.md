@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
