@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
