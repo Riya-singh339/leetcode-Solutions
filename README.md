@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Riya-singh339/leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
